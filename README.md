@@ -5,10 +5,13 @@ Opis projektu
 
 1.1 Członkowie zespołu
 	 Sadowski Jakub, Trojan Krystian, Diakow Maciej
+	 
 1.2 Cel projektu
 	Pomaganie użytkownikom w organizowaniu, planowaniu i śledzeniu zadań do wykonania
+	
 1.3 Potencjalny odbiorca projektu
 	Osoby prywatne, studenci i uczniowie, pracownicy biurowi, freelancerzy i małe firmy, osoby rozwijające nawyki, zespoły projektowe.
+	
 1.4 Metodyka
 	 Model kaskadowy
 
