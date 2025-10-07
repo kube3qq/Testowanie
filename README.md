@@ -2,6 +2,7 @@
 			     To-Do
 
 Opis projektu
+
 1.1 Członkowie zespołu
 	 Sadowski Jakub, Trojan Krystian, Diakow Maciej
 1.2 Cel projektu
